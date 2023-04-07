@@ -152,7 +152,11 @@ body {
 
 
 #middle{
+<<<<<<< HEAD
     height: 600px;
+=======
+    height: 360px;
+>>>>>>> 4496d76fa09a71aff2b21ba3473fa9400298564e
     background-color: white;
 }
 
@@ -164,6 +168,7 @@ body {
 form{
     display: flex;
     flex-direction: column;
+<<<<<<< HEAD
     margin-top: 20px;
     margin-left: 30px
     
@@ -182,6 +187,10 @@ input{
 
 
 
+=======
+}
+
+>>>>>>> 4496d76fa09a71aff2b21ba3473fa9400298564e
 
 #lets{
     font-weight: bold;
@@ -192,8 +201,36 @@ input{
 }
 
 
+<<<<<<< HEAD
 
 
+=======
+#names{
+    padding-top: 40px;
+    font-weight: bold;
+    padding-left: 40px;
+}
+
+#contact{
+    padding-top: 40px;
+    font-weight: bold;
+    padding-left: 30px;
+}
+
+.phone{
+    padding-left: 40px;
+}
+
+.e-mail{
+    padding-left: 15px;
+}
+
+#password{
+    padding-top: 40px;
+    font-weight: bold;
+    padding-left: 40px;
+}
+>>>>>>> 4496d76fa09a71aff2b21ba3473fa9400298564e
 
 input:focus {
     outline: 2px solid blue;
@@ -230,7 +267,10 @@ input:focus {
   }
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> 4496d76fa09a71aff2b21ba3473fa9400298564e
